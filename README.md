@@ -4,6 +4,20 @@ Sparseness Optimized Feature Importance (SOFI) is a model agnostic, declarative 
 
 ## Installation
 
+Install the released package from PyPI:
+
+```bash
+pip install sofi-series
+```
+
+The import package is named `sofits`:
+
+```python
+from sofits import SOFIExplainer, load_dataset
+```
+
+For development, install the repository in editable mode:
+
 ```bash
 git clone https://github.com/<user>/sofits.git
 cd sofits

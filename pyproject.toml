@@ -3,7 +3,7 @@ requires = ["setuptools>=64"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "sofits"
+name = "sofi-series"
 version = "1.0.0"
 description = "Sparseness Optimized Feature Importance for time series classification"
 readme = "README.md"
