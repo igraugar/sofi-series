@@ -417,18 +417,6 @@ Most users never need to import these directly. `SOFIExplainer.explain` and `sco
   year    = {2026},
   doi     = {10.1109/ACCESS.2026.3667092}
 }
-
-@inproceedings{grau2024sofi,
-  title     = {Sparseness-Optimized Feature Importance},
-  author    = {Grau, Isel and N{\'a}poles, Gonzalo},
-  booktitle = {Explainable Artificial Intelligence. xAI 2024},
-  series    = {Communications in Computer and Information Science},
-  volume    = {2154},
-  pages     = {393--415},
-  publisher = {Springer},
-  year      = {2024},
-  doi       = {10.1007/978-3-031-63797-1_20}
-}
 ```
 
 ## License
