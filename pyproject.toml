@@ -12,8 +12,6 @@ license = { file = "LICENSE" }
 authors = [
     { name = "Isel Grau" },
     { name = "Gonzalo Napoles" },
-    { name = "Agnieszka Jastrzebska" },
-    { name = "Yamisleydi Salgueiro" },
 ]
 keywords = [
     "explainable ai",
